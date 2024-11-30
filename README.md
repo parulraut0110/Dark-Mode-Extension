@@ -86,6 +86,8 @@ For any questions or feedback, please reach out to [parulraut0110@gmail.com].
 
 ---
 
+
+
 ## Privacy Policy
 
 For information on how we handle your data, please review our [Privacy Policy](PRIVACY_POLICY.md).
