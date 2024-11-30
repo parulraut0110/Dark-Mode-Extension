@@ -27,6 +27,7 @@ Invert.io is a Chrome extension that provides instant dark mode/light mode switc
 
 ---
 
+
 ## Features
 - Toggle between dark mode and light mode with a single click.
 - Adjust contrast, saturation, and grayscale levels dynamically.
